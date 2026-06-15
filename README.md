@@ -5,7 +5,10 @@ This repository provides the official implementation of **LMLNet**, a Language-G
 ## News
 
 - **2026-06-15**: Paper submitted.
-- Code, dataset details, and trained models will be released progressively.
+- **2026-06-15**: The project code and dataset samples have been uploaded to GitHub.
+- **2026-06-15**: The project code and dataset samples are available at the links below:
+  - **Dataset samples**: [Baidu Netdisk](https://pan.baidu.com/s/1FqOWmFqRQidiZAInV6SHOA?pwd=m3vl)
+  - **Project code**: [Baidu Netdisk](https://pan.baidu.com/s/1Ej0QyyX6PqY1-OrVpbcveA?pwd=m3vl)
 
 ## Abstract
 
